@@ -1,0 +1,50 @@
+﻿Category,Type,Credit
+Laptop,intel,5
+Laptop,xeon,3
+Laptop,amd,4
+Laptop,ryzen,2
+Mobile,snapdragon,2.5
+Mobile,mediatek,3
+Mobile,A16,3.5
+Mobile,A17,3.6
+Mobile,Dimensity,4
+Mobile,exynos,2
+Mobile,google tensor,3
+Washing Machine,Automatic,6
+Air Cooler,1 ton,5
+Headphones,wired,0.5
+cd/dvd,NA,0.1
+Calculator,Solar,1
+Cables ,NA,0.1
+Wires,NA,0.1
+Camera,Nikkon,5
+Thermostat,NA,1.5
+Fax ,Electronic,6
+e-toys,"Motors,Led's",2
+Harddrive,HDD,3
+Hubs,NA,4
+Keyboard,NA,3
+Mouse,NA,2
+Moniter,NA,4
+Lcd display,13.5 inch,3
+Battery,Lithium,1.5
+Battery,Lead Acid,2
+Walkie Talkie,100m Range,1.5
+Servers,NA,7
+Smart Watch,Company Product,3.5
+Scanner,Company Product,4.3
+Video Game Systems,Ps1 or Ps2 or Ps3,5
+Timers,NA,2
+Routers,Atleast 100m Range,2.5
+Record Players,NA,3
+Receivers,NA,2
+UPS,Lithium ion Battery,4
+Printer,Company Product,5
+Turn Tables,NA,1.5
+Telephone Sets,NA,2
+Camera,Canon,6
+Washing Machine,Self,4
+Air Cooler,2 ton,7
+Headphones,Wireless,2.5
+Harddrive,SSD,5
+Smart Watch,Local,2.3
